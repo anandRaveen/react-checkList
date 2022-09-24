@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+body {
+  height: 100vh;
+  background: whitesmoke;
+  font-size: 15px;
+}
+
+.main_container {
+  width: 250px;
+  border: none;
+}
